@@ -69,7 +69,7 @@ Philadelphia Baltimore 101
 Baltimore Pittsburgh 247
 Pittsburgh Buffalo 215
 Pittsburgh Philadelphia 305
-Chicago New_York"""
+Syracuse Chicago"""
 
 lines = input_data.split('\n')
 n, m = map(int, lines[0].split())
